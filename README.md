@@ -31,4 +31,4 @@
 | 8-9       	|Programacion Logica y Funcional|Programacion Logica y Funcional|Programacion Logica y Funcional|Programacion Logica y Funcional||
 
 ##### Guias:
-###### https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
